@@ -23,7 +23,8 @@ set1.pcap
 set2.pcap
 
 10. 77982 packets
-11. 12 username-password pairs
+11. 1 username-password pair, there are other generic ones but they are not 
+    relevant
 12. I used dsniff to find the username-password pairs. dsniff is a password
     sniffing tool
 13. Protocol: IMAP
